@@ -8,7 +8,6 @@
             "email": "949460716@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
