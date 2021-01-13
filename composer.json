@@ -8,10 +8,12 @@
             "email": "949460716@qq.com"
         }
     ],
-    "require": {},
+    "minimum-stability": "dev",
+    "require": {
+    },
     "autoload": {
         "psr-4": {
-            "Xiangzhelo\\Hasher\\":"src/"
+            "Xiangzhelo\\Hasher\\": "src/"
         }
     }
 }
